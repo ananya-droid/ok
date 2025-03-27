@@ -1,0 +1,4 @@
+{
+    "llm_model": "deepseek-r1-distill-qwen-32b",
+    "max_iterations": 3
+}
